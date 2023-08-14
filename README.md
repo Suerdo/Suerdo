@@ -1,7 +1,7 @@
 ### Suerdo Flaubert
 
 - 🌎 From: Brazil 🇧🇷
-- 💻 Experiência com | Some experience with: Python and Java
+- 💻 Experiência com | Some experience with: Python, Java and Javascript
 - 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
 
 
