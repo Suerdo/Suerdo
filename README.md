@@ -6,7 +6,7 @@
 
 
 <div align="left" style="display: inline_block">
-  <a href="https://github.com/victoriaraujo">
+  <a href="https://github.com/suerdo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suerdo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 </div>
 
