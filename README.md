@@ -1,9 +1,11 @@
-### Suerdo Flaubert
+## Suerdo Flaubert
+<h3 align="left">✨ Get to Know Me: ✨</h3>
 
 - 🌎 From: Brazil 🇧🇷
-- 💻 Experiência com | Some experience with: Python, Java and Javascript
+- 📚 Estudando | Currently learning: Software Development
+- 🌱 Interesses | Interests: Technology, Problem Solving, and Teaching
 - 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
-
+- ♟️ Gosto de jogar | I like playing: Chess ♟️
 
 <h3 align="left">Tech Stack:</h3>
 
