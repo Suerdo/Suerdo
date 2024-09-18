@@ -1,5 +1,5 @@
 ## Suerdo Flaubert
-<h3 align="left">✨ Get to Know Me: ✨</h3>
+<h3 align="left">✨ Get to Know Me: </h3>
 
 - 🌎 From: Brazil 🇧🇷
 - 📚 Estudando | Currently learning: Software Development
