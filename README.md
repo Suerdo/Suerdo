@@ -50,6 +50,26 @@
   </a> 
 </p>
 
+<h3 align="left">Get in Touch:</h3>
+
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:suerdocampos@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/suerdo-flaubert-78b3a4194" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/suerdo_fl" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
+
+
 <p align="rigth">
   <img src="https://media.tenor.com/0b2wwt3gbswAAAAd/diana-league-of-legends.gif" alt="OK width="300"/>
 </p>
