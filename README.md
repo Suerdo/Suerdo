@@ -5,7 +5,7 @@
 - 📚 Estudando | Currently learning: Software Development
 - 🌱 Interesses | Interests: Technology, Problem Solving, and Teaching
 - 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
-- ♟️ Gosto de jogar | I like playing: Chess ♟️
+- ♟️ Gosto de jogar | I like playing: Chess 
 
 <h3 align="left">Tech Stack:</h3>
 
