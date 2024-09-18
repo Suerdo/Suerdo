@@ -7,7 +7,7 @@
 - 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
 - ♟️ Gosto de jogar | I like playing: Chess 
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
 <p align="left"> 
   <!-- Front-end -->
@@ -52,7 +52,7 @@
   </a> 
 </p>
 
-<h3 align="left">Get in Touch:</h3>
+<h3 align="left">📫 Get in Touch:</h3>
 
 <p align="left">
   <!-- Gmail -->
