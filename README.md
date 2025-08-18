@@ -20,9 +20,10 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</a>
+  </a>
 
   <!-- Banco de Dados -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -34,16 +35,19 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a>
-
   
   <!-- Data Science -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-</a>
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  </a>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/> 
-</a>
+  </a>
+  <!-- Metabase -->
+  <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">📫 Get in Touch:</h3>
@@ -65,10 +69,6 @@
   </a>
 </p>
 
-
-<p align="rigth">
-  <img src="https://media.tenor.com/0b2wwt3gbswAAAAd/diana-league-of-legends.gif" alt="OK width="300"/>
-</p>
-
-          
+<p align="right">
+  <img src="https://media.tenor.com/0b2wwt3gbswAAAAd/diana-league-of-legends.gif" alt="Diana League of Legends" width="300"/>
 </p>
