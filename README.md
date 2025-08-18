@@ -69,6 +69,6 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://media.tenor.com/0b2wwt3gbswAAAAd/diana-league-of-legends.gif" alt="Diana League of Legends" width="300"/>
+<p align="left">
+  <img src="https://media.tenor.com/0b2wwt3gbswAAAAd/diana-league-of-legends.gif" alt="Diana League of Legends" width="400"/>
 </p>
