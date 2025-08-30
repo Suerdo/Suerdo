@@ -8,21 +8,19 @@
 
 ---
 
-## Get to Know Me 
-
-<div align="justify">
-
-Sou **Suerdo Flaubert**, brasileiro, estudante e apaixonado por ciência de dados.  
-Atualmente focado em **Data Science** e **Machine Learning**, com interesse em **Análise de Dados**, **Visualização** e **IA aplicada**.  
-Falo **Português**, **Francês** e **Inglês**. Também gosto de **Xadrez**, pela lógica e estratégia.  
-
-</div>
+## Get to Know Me  
 
 <img align="right" src="https://img1.picmix.com/output/stamp/normal/8/8/6/2/512688_0ed51.gif" alt="Doctor Who TARDIS" width="160"/>
 
+- 🇧🇷 **From / De:** Brasil  
+- 📚 **Currently studying:** Data Science & Machine Learning  
+- 🌱 **Interests:** Data Analysis, Data Visualization, Applied AI  
+- 🌍 **Languages:** Portuguese · English  
+- ♟️ **Hobby:** Chess (logic + strategy)  
+
 ---
 
-## Tech Stack 
+## Tech Stack  
 
 **Languages & Frameworks**  
 <p>
@@ -42,14 +40,9 @@ Falo **Português**, **Francês** e **Inglês**. Também gosto de **Xadrez**, pe
   <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="30"/>
 </p>
 
-**Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,postman&theme=dark" height="36"/>
-</p>
-
 ---
 
-## Get in Touch 
+## Get in Touch  
 
 <p>
   <a href="mailto:suerdocampos@gmail.com" target="_blank">
@@ -62,6 +55,5 @@ Falo **Português**, **Francês** e **Inglês**. Também gosto de **Xadrez**, pe
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=800080"/>
   </a>
 </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=footer"/>
