@@ -63,6 +63,5 @@ Falo **Português**, **Francês** e **Inglês**. Também gosto de **Xadrez**, pe
   </a>
 </p>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=footer"/>
