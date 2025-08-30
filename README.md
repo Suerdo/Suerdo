@@ -14,7 +14,7 @@
 
 - 🇧🇷 **From / De:** Brasil  
 - 📚 **Currently studying:** Data Science & Machine Learning  
-- 🌱 **Interests:** Data Analysis, Data Visualization, Applied AI  
+- 🌱 **Interests:** Data Analysis · Data Visualization · Applied AI  
 - 🌍 **Languages:** Portuguese · English  
 - ♟️ **Hobby:** Chess (logic + strategy)  
 
@@ -24,27 +24,27 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,angular,spring&theme=dark" height="36"/>
+  <img src="https://skillicons.dev/icons?i=py,r,angular,spring&theme=dark" height="40"/>
 </p>
 
 **Databases**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="36"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
 </p>
 
-**Data & BI**  
+**Data & BI Tools**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="34"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="34"/>
-  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="38"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38"/>
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="34"/>
 </p>
 
 ---
 
 ## Get in Touch  
 
-<p>
+<p align="center">
   <a href="mailto:suerdocampos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=800080"/>
   </a>
