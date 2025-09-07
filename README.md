@@ -35,10 +35,13 @@
 
 **Data & BI Tools**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="38"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38"/>
-  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="38" alt="Jupyter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38" alt="Power BI"/>
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="34" alt="Metabase"/>
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="34" alt="dbt"/>
 </p>
+
+
 
 ---
 
