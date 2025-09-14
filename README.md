@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=header" alt="Decorative header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@
 **Databases**  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server"/>
 </p>
 
 **Data & BI Tools**  
@@ -41,22 +41,20 @@
   <img src="https://cdn.simpleicons.org/dbt/FF694B" height="34" alt="dbt"/>
 </p>
 
-
-
 ---
 
 ## Get in Touch  
 
 <p align="center">
   <a href="mailto:suerdocampos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=800080"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=800080" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/suerdo-flaubert-78b3a4194" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/suerdo_fl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=800080"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=800080" alt="Instagram"/>
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=footer" alt="Decorative footer"/>
