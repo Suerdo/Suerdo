@@ -17,7 +17,7 @@
 
 ---
 
-## Conheça-me
+## Me Conheça
 
 - 🇧🇷 **País:** Brasil  
 - 📚 **Atualmente Estudando:** Data Science & Machine Learning  
