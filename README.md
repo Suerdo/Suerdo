@@ -1,16 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=header" alt="Decorative header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=header" alt="Decorative header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning" alt="Typing SVG"/>
   </a>
 </p>
 
 ---
 
 ## Get to Know Me  
-
-<img align="right" src="https://img1.picmix.com/output/stamp/normal/8/8/6/2/512688_0ed51.gif" alt="Doctor Who TARDIS" width="160"/>
 
 - 🇧🇷 **From / De:** Brasil  
 - 📚 **Currently studying:** Data Science & Machine Learning  
@@ -42,20 +40,4 @@
   <img src="https://cdn.prod.website-files.com/687b2d16145b3601a227c537/687b2d16145b3601a227cfab_Airbyte_icon_color%402x.webp" height="34" alt="Airbyte"/>
 </p>
 
----
-
-## Get in Touch  
-
-<p align="center">
-  <a href="mailto:suerdocampos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=800080" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suerdo-flaubert-78b3a4194" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/suerdo_fl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=800080" alt="Instagram"/>
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=140&section=footer" alt="Decorative footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=footer" alt="Decorative footer"/>
