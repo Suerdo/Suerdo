@@ -1,8 +1,18 @@
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning" alt="Typing SVG"/>
-  </a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=900&lines=Welcome!+I'm+Suerdo+Flaubert;Data+Science+Explorer+%7C+Visualization+%7C+Machine+Learning;Bem-vindo!+Sou+Suerdo+Flaubert;Explorador+de+Dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Machine+Learning"
+      alt="Typing SVG"
+    />
+  </picture>
 </p>
 
 ---
