@@ -29,7 +29,7 @@
 
 **Databases**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server"/>
 </p>
 
