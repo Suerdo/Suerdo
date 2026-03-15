@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=header" alt="Decorative header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -40,4 +39,3 @@
   <img src="https://cdn.prod.website-files.com/687b2d16145b3601a227c537/687b2d16145b3601a227cfab_Airbyte_icon_color%402x.webp" height="34" alt="Airbyte"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=140&section=footer" alt="Decorative footer"/>
