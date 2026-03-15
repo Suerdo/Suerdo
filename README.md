@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="38" alt="Jupyter"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38" alt="Power BI"/>
   <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" height="34" alt="Metabase"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" height="34" alt="dbt"/>
   <img src="https://airflow.apache.org/images/airflow-icon.svg" height="34" alt="Apache Airflow"/>
   <img src="https://cdn.prod.website-files.com/687b2d16145b3601a227c537/687b2d16145b3601a227cfab_Airbyte_icon_color%402x.webp" height="34" alt="Airbyte"/>
 </p>
